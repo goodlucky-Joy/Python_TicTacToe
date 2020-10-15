@@ -67,3 +67,10 @@ By Joy H. Kang<br>
 <br>
 
 /Tic Tac Toe<br>
+01_TicTacToe_basic.py
+02_TicTacToe_2players.py
+03_TicTacToe_1player_ai.py
+04_tictactoe_AI_battle.py
+minimaxai.py
+randomai.py
+rulebasedai.py
