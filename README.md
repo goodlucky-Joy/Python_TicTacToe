@@ -66,11 +66,13 @@ By Joy H. Kang<br>
 04_login_button.py<br>
 <br>
 
-/Tic Tac Toe<br>
-01_TicTacToe_basic.py
-02_TicTacToe_2players.py
-03_TicTacToe_1player_ai.py
-04_tictactoe_AI_battle.py
-minimaxai.py
-randomai.py
-rulebasedai.py
+/Tic-Tac-Toe<br>
+01_TicTacToe_basic.py<br>
+02_TicTacToe_2players.py<br>
+03_TicTacToe_1player_ai.py<br>
+04_tictactoe_AI_battle.py<br>
+minimaxai.py<br>
+randomai.py<br>
+rulebasedai.py<br>
+
+/Temp
