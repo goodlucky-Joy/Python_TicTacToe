@@ -1,9 +1,0 @@
-D:\Documents\Python_Workspace>python -m pip install --upgrade pip wheel setuptools
-D:\Documents\Python_Workspace>python -m pip install docutils pygments pypiwin32 kivy_deps.sdl2==0.1.* kivy_deps.glew==0.1.*
-D:\Documents\Python_Workspace>python -m pip install kivy_deps.gstreamer==0.1.*
-D:\Documents\Python_Workspace>python -m pip install kivy_deps.angle==0.1.*
-D:\Documents\Python_Workspace>python -m pip install kivy==1.11.1 
-설치가 안되는 경우 최신버전으로 설치  pip install kivy==
-D:\Documents\Python_Workspace>python -m pip install kivy_examples== 
-D:\Documents\Python_Workspace>python -m pip list
-D:\Documents\Python_Workspace> python d:\Documents\Python38\share\kivy-examples\demo\showcase\main.py
