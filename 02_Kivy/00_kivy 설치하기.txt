@@ -4,9 +4,9 @@ https://kivy.org/doc/stable/installation/installation-windows.html#installing-th
 
 C:\Documents\Python_Workspace>
 
-python -m pip install --upgrade pip wheel setuptools virtualenv
-python -m virtualenv kivy_venv
-kivy_venv\Scripts\activate
+python -m pip install --upgrade pip wheel setuptools virtualenv (생략가능)
+python -m virtualenv kivy_venv (생략가능)
+kivy_venv\Scripts\activate (생략가능)
 
 
 (kivy_venv) C:\Documents\Python_Workspace>
@@ -16,11 +16,10 @@ python -m pip install kivy_deps.gstreamer==0.1.*
 python -m pip install kivy_deps.angle==0.1.*
 
 python -m pip install kivy==1.11.1
-(error 메시지 -> pip install kivy[base] kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple/ )
-
-python -m pip install kivy_examples==1.11.1
+(설치가 안되는 경우 최신버전으로 설치 pip install kivy==
+python -m pip install kivy_examples==
 pip list
 
 python kivy_venv\share\kivy-examples\demo\showcase\main.py
 
-인터프리터 Python 3.8.5 -> Python 3.8.5 (kivy_venv) 로 변경
+인터프리터 Python 3.8.5 -> Python 3.8.5 (kivy_venv) 로 변경 (생략가능)
