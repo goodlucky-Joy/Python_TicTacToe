@@ -2,7 +2,7 @@
 Example codes of TicTacToe game in Python Language<br>
 By Joy H. Kang<br>
 <br>
-/Python Basic <br>
+/Python<br>
 01_helloworld.py<br>
 02_tempC_to_tempF.py<br>
 03_connect_string.py<br>
