@@ -6,9 +6,9 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.popup import Popup
 from kivy.uix.label import Label
 from random import randint
-#from randomai import Ai
-#from rulebasedai import Ai
-from minimaxai import Ai
+from randomai import Ai
+# from rulebasedai import Ai
+# from minimaxai import Ai
 
 WINNING_LINES = (
     ((0,0),(0,1),(0,2)),((1,0),(1,1),(1,2)),((2,0),(2,1),(2,2)),
