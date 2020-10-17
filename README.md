@@ -1,5 +1,5 @@
 # Python_TicTacToe<br>
-Example codes of TicTacToe game in Python Language<br>
+Example codes of AI TicTacToe game in Python Language<br>
 By Joy H. Kang<br>
 <br>
 /Python<br>
@@ -66,11 +66,11 @@ By Joy H. Kang<br>
 04_login_button.py<br>
 <br>
 
-/Tic-Tac-Toe<br>
-01_TicTacToe_basic.py<br>
-02_TicTacToe_2players.py<br>
-03_TicTacToe_1player_ai.py<br>
-04_tictactoe_AI_battle.py<br>
+/TicTacToe<br>
+01_tictactoe_basic.py<br>
+02_tictactoe_2players.py<br>
+03_tictactoe_1player_ai.py<br>
+04_tictactoe_ai_battle.py<br>
 minimaxai.py<br>
 randomai.py<br>
 rulebasedai.py<br>
